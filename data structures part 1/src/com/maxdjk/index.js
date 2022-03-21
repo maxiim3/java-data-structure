@@ -1,0 +1,3 @@
+function BlogPost(author, title){
+
+}
